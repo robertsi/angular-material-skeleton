@@ -3,10 +3,14 @@
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.8.
 
 Commands used:
-ng create angular-material --style scss --routing
-cd angular-material
-npm install --save @angular/material @angular/animations @angular/cdk hammerjs
-ng generate module material
+
+1. ng create angular-material --style scss --routing
+
+2. cd angular-material
+
+3. npm install --save @angular/material @angular/animations @angular/cdk hammerjs
+
+4. ng generate module material
 
 ## Development server
 
